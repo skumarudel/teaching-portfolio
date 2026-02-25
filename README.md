@@ -2,7 +2,7 @@
 
 **Instructor:** Dr. Sajan Kumar  
 **Email:** skumar86@umd.edu  
-**Office:** 2109 Physical Sciences Complex  
+**Office:** 2109 Physical Sciences Complex, University of Marlyland, College Park  
 **Office Hours:** 9:00–10:00 AM on Tuesday and Thursday or by appointment  
 **Class Time:** 10:30 AM – 12:00 PM every Tuesday and Thursday  
 **Classroom:** Room 1010  
@@ -13,6 +13,7 @@
 
 **Introduction to Astronomy** is a three-credit hour course designed for students with little to no prior experience in astronomy. This course is lecture-based but highly interactive, emphasizing active engagement through collaborative learning and hands-on experiences. Students will explore astronomical phenomena through the principles of physical science. Topics include:  
 
+- Exploring the Universe's scale and history
 - The night sky and our solar system  
 - Fundamental principles of astronomy  
 - Nature of light and the electromagnetic spectrum  
